@@ -1,4 +1,4 @@
 # demo
 First GIT Repository
 <br>
-Author - Sahil Singh
+Author - Sahil Singh the magician
